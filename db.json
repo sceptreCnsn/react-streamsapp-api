@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "asdasd",
+      "description": "asdasdss",
+      "id": 1
+    },
+    {
+      "description": "Here's some stream",
+      "title": "Other Stream",
+      "id": 2
+    },
+    {
+      "title": "Cansın Stream",
+      "description": "New Stream",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "Cansın Stream",
+      "description": "New Stream2",
+      "userId": "109041632494880034470",
+      "id": 4
+    },
+    {
+      "title": "History Deneme",
+      "description": "deneme",
+      "userId": "109041632494880034470",
+      "id": 5
+    }
+  ]
+}
